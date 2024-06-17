@@ -1,2 +1,4 @@
 # MCAD-cyberattack-detector
 A Machine Learning Based Cyberattacks Detector in Software-Defined Networking for Healthcare Systems
+
+The healthcare industry handles sensitive and important data that must be protected from unauthorized access. Software-defined networks (SDNs) are extensively implemented in healthcare systems to assure optimal resource utilization, security, network administration, and control. Due to the sensitivity of patient data, SDNs are exposed to a wide spectrum of intrusions despite their many benefits. These attacks harm the overall network performance and can lead to network failures that pose a risk to human lives. Therefore, we aim to propose a machine learning-based cyber-attack detector (MCAD) for healthcare systems, by adapting a layer three (L3) learning switch application to collect normal and abnormal traffic, and then deploy MCAD on the Ryu controller to analyse/neutralize the abnormal traffic.
